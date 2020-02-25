@@ -1,0 +1,6 @@
+-- INSERT INTO product VALUES (3, 'non quis sint', 33, FALSE , 15);
+-- -- INSERT INTO PRODUCT (productName, inventoryQuantity, shipOnWeekends, maxBuisnessDaysToShip) VALUES ("voluptate cupidatat non",52,false,18);
+-- -- INSERT INTO PRODUCT (productName, inventoryQuantity, shipOnWeekends, maxBuisnessDaysToShip) VALUES ("anim amet occaecat",39,true,19);
+-- -- INSERT INTO PRODUCT (productName, inventoryQuantity, shipOnWeekends, maxBuisnessDaysToShip) VALUES ("cillum deserunt elit",47,false,20);
+-- -- INSERT INTO PRODUCT (productName, inventoryQuantity, shipOnWeekends, maxBuisnessDaysToShip) VALUES ("adipisicing reprehenderit et",71,false,15);
+-- -- INSERT INTO PRODUCT (productName, inventoryQuantity, shipOnWeekends, maxBuisnessDaysToShip) VALUES ("ex mollit laboris",80,false,15);
