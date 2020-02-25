@@ -1,0 +1,10 @@
+-- -- noinspection SqlNoDataSourceInspection
+-- DROP TABLE IF EXISTS product;
+-- CREATE TABLE product (
+--   productId INTEGER NOT NULL AUTO_INCREMENT,
+--   productName VARCHAR(128) NOT NULL,
+--   inventoryQuantity INTEGER NOT NULL,
+--   shipOnWeekends BOOLEAN NOT NULL,
+--   maxBuisnessDaysToShip INTEGER NOT NULL,
+--   PRIMARY KEY (productId)
+-- );
